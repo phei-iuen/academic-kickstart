@@ -14,7 +14,7 @@ role: Master student looking for PhD position
 
 # Organizations/Affiliations
 organizations:
-- name: ETH ZUrich
+- name: ETH Zurich
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
